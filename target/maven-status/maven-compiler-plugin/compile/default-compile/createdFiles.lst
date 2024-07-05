@@ -1,0 +1,6 @@
+com\app\controller\InstaPostServlet.class
+com\app\bo\Attachment.class
+com\app\bo\Post.class
+com\app\service\PostService.class
+com\app\cdn\CDNMain.class
+com\app\cdn\bo\ResponseWrapper.class
